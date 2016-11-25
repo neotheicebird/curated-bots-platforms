@@ -13,5 +13,6 @@ Services that support Bots:
 ===========================
 1. Slack
 2. Microsoft Bot framework for skype and other services
-3. Facebook
+3. [Facebook Messenger](https://messengerplatform.fb.com/)
 4. Telegram
+5. [Kik](https://www.kik.com/)
