@@ -14,7 +14,7 @@ AI Platforms
 Bot Frameworks
 ==============
 1. [Microsoft bot framework](https://dev.botframework.com/)
-2. [Hubot](https://hubot.github.com/)
+2. [Hubot](https://hubot.github.com/): "A customizable life embetterment robot"
 3. [howdy](https://howdy.ai/botkit/)
 
 Services that support Bots:
@@ -24,3 +24,8 @@ Services that support Bots:
 3. [Facebook Messenger](https://messengerplatform.fb.com/)
 4. Telegram
 5. [Kik](https://www.kik.com/)
+
+References
+==========
+
+1. http://nordicapis.com/12-frameworks-to-build-chatops-bots/
