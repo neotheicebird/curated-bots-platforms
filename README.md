@@ -15,6 +15,7 @@ Bot Frameworks
 ==============
 1. [Microsoft bot framework](https://dev.botframework.com/)
 2. [Hubot](https://hubot.github.com/)
+3. [howdy](https://howdy.ai/botkit/)
 
 Services that support Bots:
 ===========================
