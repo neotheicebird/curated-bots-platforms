@@ -10,7 +10,7 @@ AI Platforms
 4. [Cleverbot](http://www.cleverbot.com/): Like a really clever chat bot. Has python wrapper.
 5. [API.ai](https://api.ai/): Add Natural language processing capabalities to your chatbot with API.ai
 6. [IBM Watson Conversation](https://www.ibm.com/watson/developercloud/conversation.html): Add a natural language interface to your application to automate interactions with your end users
-
+7. [Rasa.ai](https://rasa.ai/): Open source tool for intent generation and entity extraction that can run locally. Own your data.
 Bot Frameworks
 ==============
 1. [Microsoft bot framework](https://dev.botframework.com/)
